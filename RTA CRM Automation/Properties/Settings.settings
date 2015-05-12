@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RTA.Automation.CRM.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IMPLICIT_WAIT_SECONDS" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="SHORT_WAIT_SECONDS" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="LONG_WAIT_SECONDS" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">120</Value>
+    </Setting>
+    <Setting Name="BROWSER" Type="RTA.Automation.CRM.Environment.BrowserType" Scope="Application">
+      <Value Profile="(Default)">Ie</Value>
+    </Setting>
+    <Setting Name="ENVIRONMENT" Type="RTA.Automation.CRM.Environment.EnvironmentType" Scope="Application">
+      <Value Profile="(Default)">SME</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

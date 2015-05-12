@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="orderedtest2" storage="c:\users\mateosp\tfs\rta automation solution\rta crm automation\tests\orderedtest2.orderedtest" id="f528c42a-43d7-4f37-b6ec-86ac4df09e2a" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="d8c98dff-ca48-c81c-b04e-3f56993dd863" name="ATC7120a_CRMAC1Fileformatverification" storage="..\bin\debug\rta.automation.crm.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="5187d888-7645-ebcc-b711-83feaa2474dc" name="ATC7120b_AXAC1Fileformatverification" storage="..\..\rta ax automation\bin\debug\rta.automation.ax.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

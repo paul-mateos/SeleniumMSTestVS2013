@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="atc6709" storage="c:\users\mateosp\tfs\rta automation solution\rta crm automation\tests\atc6709.orderedtest" id="d3d01798-5d49-448e-8256-fb81274ff8e9" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="3bd32bb2-f7a1-7c94-93f1-ba08024fd6fd" name="ATC6709a_CRMTenancyRequestBatchReadOnlywhenBPaygenerated" storage="..\bin\debug\rta.automation.crm.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="53118024-94aa-21be-f896-5aaf59f6db1d" name="ATC6709b_CRMTenancyRequestBatchReadOnlywhenBPaygenerated" storage="..\bin\debug\rta.automation.crm.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="8c09a827-65fb-a75a-6009-8014ff584770" name="ATC6709c_CRMTenancyRequestBatchReadOnlywhenBPaygenerated" storage="..\bin\debug\rta.automation.crm.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
